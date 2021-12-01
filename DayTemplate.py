@@ -9,6 +9,6 @@ class DayXpartY():
         pass
 
 if __name__ == '__main__':
-    dayXpartY = DayXpartY()
-    answer = dayXpartY.solve()
+    d = DayXpartY()
+    answer = d.solve()
     print(f"Answer is {answer}")
