@@ -1,4 +1,5 @@
 from helpers.input import read_input
+from helpers.colours import colour
 import math
 
 class Day10Part1():
